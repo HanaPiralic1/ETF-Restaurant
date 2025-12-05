@@ -1,2 +1,2 @@
 # ETF-Restaurant
-Project for course "Embedded Systems" 
+Group Project for course "Embedded Systems" 
